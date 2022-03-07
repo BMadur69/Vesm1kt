@@ -1,2 +1,2 @@
 ### Vesm1kt
-*Nafn:*Baldur Þór Árnason
+**Nafn:** Baldur Þór Árnason
