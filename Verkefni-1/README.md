@@ -28,6 +28,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 "Miðja" : 12
 "Hægri" : 55
 "Vinstri" : 33
+```
 
 ### Dolore ut velit
 
