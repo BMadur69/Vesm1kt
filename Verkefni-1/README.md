@@ -23,6 +23,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 | tempor | et | fugiat |
 
 ### Eiusmod tempor et fugiat
+```mermaid
 Úr töflunni hæer að ofan;
 "Miðja" : 12
 "Hægri" : 55
