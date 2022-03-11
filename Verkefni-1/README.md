@@ -33,7 +33,10 @@ title Tölur úr töflunni
 
 ### Dolore ut velit
 ```C++
-void setup() { Serial.begin(9600); Serial.println("Halló"); }
+void setup() {
+  Serial.begin(9600); 
+  Serial.println("Halló"); 
+  }
 ```
 ## Commodo occaecat
 
