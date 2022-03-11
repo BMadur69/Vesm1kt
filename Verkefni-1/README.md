@@ -33,8 +33,9 @@ title Tölur úr töflunni
 
 ### Dolore ut velit
 
+<dl>
 void setup() { Serial.begin(9600); Serial.println("Halló"); }
-
+</dl>
 ## Commodo occaecat
 
 Incididunt laborum mollit cupidatat laboris anim
