@@ -23,9 +23,9 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 | tempor | et | fugiat |
 
 ### Eiusmod tempor et fugiat
-"Miðja" : 12
-"Hægri" : 55
-"Vinstri" :34
+"Miðja" : 12%
+"Hægri" : 55%
+"Vinstri" : 33%
 
 ### Dolore ut velit
 
